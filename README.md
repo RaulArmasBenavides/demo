@@ -1,2 +1,4 @@
-# demo
-Spring API Rest
+
+
+
+Docs: http://localhost:8080/swagger-ui/
